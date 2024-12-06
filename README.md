@@ -9,7 +9,7 @@ Filament scaffold is a toolkiit for Filament Admin that simplifies the generatio
 ## Features
 - Automatic Filament Resource Generation: Generates Filament resource files, including forms and table views, based on specified table names.
 
-- Support for Multiple Resource Types: Can generate models, migration files, factories, controllers, and more.
+- Support for Multiple Artifact Types: Can generate models, migration files, factories, controllers, and more.
 
 - Dynamic Form Generation: Automatically generates form fields based on database table structure.
 
